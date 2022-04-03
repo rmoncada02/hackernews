@@ -28,7 +28,7 @@ aside form{
     margin-left: 150px;
 }
 
-aside form input[type=text]{
+aside form input[type=email]{
     margin-right: 150px;
     margin-left: 150px;
     width: 70%;
