@@ -1,0 +1,64 @@
+header{
+    justify-content: space-between;
+    display:flex ;
+    border-style: solid;
+    padding: 10px;
+    margin-right: 150px;
+    margin-left: 150px;
+
+}
+section article{
+    margin-right: 150px;
+    margin-left: 150px;
+    justify-items: center;
+    border-style: solid;
+}
+section article h2{
+    text-align: left;
+    justify-content: center;
+}
+aside form{
+    display: flex;
+    justify-content: center;
+}
+.container{
+    height: 50vh;
+    padding: 10px;
+    margin-right: 150px;
+    margin-left: 150px;
+}
+
+aside form input[type=text]{
+    margin-right: 150px;
+    margin-left: 150px;
+    width: 70%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    font-size: 16px;
+}
+aside form input[type=submit]{
+    border: 1px solid;
+    padding: 5px 20px;
+    font-size: 16px;
+    margin: 8px 2px;
+}
+footer{
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+form{
+    text-align: center;
+    font-size: 18px;
+    justify-content: center;
+}
+form input[type=textarea]{
+    width: 20%;
+    height: 200px;
+}
+
+
+
+
